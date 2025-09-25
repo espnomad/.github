@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/espnomad/.github/main/files/espnomad_logo%404x.png" alt="ESPnomad Logo" width="200"/>
+</p>
+
+
 # ESPnomad
 
 **Modular ESPHome-based automation for 12V, 24V, and 48V mobile systems**  
